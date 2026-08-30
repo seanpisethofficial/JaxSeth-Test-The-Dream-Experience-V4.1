@@ -1,47 +1,57 @@
 # 🌌 JaxSeth Test The Dream Experience
 
-**Super Ultra Professional Premium — Level Master**
+## 🇰🇭 Khmer Project Reading Edition
 
-Roblox Studio 2026 • Luau • Mobile • Tablet • PC • Controller
+**Version:** 4.1.0
 
-## Vision
+នេះគឺជា GitHub Project សម្រាប់:
 
-A premium social-first dream hangout experience featuring:
+**JaxSeth Test The Dream Experience**
 
-- Dream World
-- Exploration
-- Missions
-- Coins
-- Shop
-- NPCs
-- Achievements
-- Leaderboards
-- Social systems
-- Community
-- License protection
-- Anti-cheat
-- Performance engineering
-- Mobile support
-- Controller support
+Project នេះផ្អែកលើ Master Specification ដែលបានផ្ដល់ដោយអ្នកអភិវឌ្ឍ។
 
-## Security
+---
+
+## 📘 Master Specification
+
+ឯកសារដើមដែលបាន import ពី ChatGPT:
+
+`MASTER_SPECIFICATION.md`
+
+សូមអានឯកសារនេះជាឯកសារគោល មុនពេលអភិវឌ្ឍប្រព័ន្ធ។
+
+---
+
+## 🇰🇭 ឯកសារភាសាខ្មែរ
+
+សម្រាប់ការអាន និងសិក្សា:
+
+- KHMER_MASTER_GUIDE.md
+- KHMER_SETUP_GUIDE.md
+- KHMER_SECURITY.md
+- KHMER_ANTI_CHEAT.md
+- KHMER_LICENSE.md
+- KHMER_ARCHITECTURE.md
+- KHMER_TESTING.md
+- KHMER_PERFORMANCE.md
+
+---
+
+## 🔐 Security Principle
 
 CLIENT = UNTRUSTED
 
 SERVER = AUTHORITY
 
-Never trust client-provided:
+មានន័យថា:
 
-- Coins
-- Prices
-- Rewards
-- Permissions
-- Roles
-- License state
-- Mission completion
-- Teleport coordinates
+**Client មិនត្រូវបានចាត់ទុកថាជាអ្នកមានសិទ្ធិអំណាច។**
 
-## World
+**Server ជាអ្នកសម្រេច state និងសកម្មភាពសំខាន់ៗ។**
+
+---
+
+## 🌌 World
 
 1. Dream Plaza
 2. Sky Garden
@@ -52,20 +62,18 @@ Never trust client-provided:
 7. Secret Dream Area
 8. Community Center
 
-## Documentation
+---
 
-See:
+## ⚠️ Important
 
-- ARCHITECTURE.md
-- SETUP_GUIDE.md
-- BUILD_GUIDE.md
-- SECURITY.md
-- ANTI_CHEAT.md
-- LICENSE_SYSTEM.md
-- DATA_GUIDE.md
-- PERFORMANCE.md
-- TESTING.md
+កុំដាក់ក្នុង GitHub:
 
-## Copyright
+- API Keys
+- Passwords
+- Access Tokens
+- License Secrets
+- Private Credentials
+
+---
 
 © 2026 JaxSeth
